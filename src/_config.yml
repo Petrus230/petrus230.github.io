@@ -1,0 +1,38 @@
+# Dependencies
+markdown: kramdown
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Lluis Guirado
+tagline: 'A Jekyll theme'
+description: 'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url: https://lluisguirado.com
+baseurl: ""
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - scripts
+
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-date-localization
+
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page:num/'
+  title: ' - :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+livereload: true
+port: 8080

@@ -1,0 +1,36 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
+{
+	"build": {
+		"dockerfile": "./Dockerfile",
+		"context": "../src"
+	},
+
+  // Features to add to the dev container. More info: https://containers.dev/features.
+  "features": {
+		"ghcr.io/devcontainers/features/node:1": {},
+		"ghcr.io/devcontainers/features/git:1": {
+            "version": "latest",
+            "ppa": "false"
+        },
+    "ghcr.io/devcontainers-contrib/features/prettier:1": {}
+	},
+	"postCreateCommand": "sh /usr/local/post-create.sh",
+  // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint
+  "postAttachCommand": "./src/scripts/entrypoint.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": ["esbenp.prettier-vscode", "sissel.shopify-liquid", "yzhang.markdown-all-in-one", "ms-azuretools.vscode-docker", "github.vscode-github-actions", "google.geminicodeassist", "gruntfuggly.todo-tree", "eamodio.gitlens"],
+      "settings": {
+        // use prettier code formatter as default formatter
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "prettier.configPath": ".prettierrc",
+        "editor.formatOnSave": true
+      }
+    }
+  },
+  "mounts": [
+    // persist ssh keys in readonly mode so that git can be used
+    "type=bind,source=${localEnv:HOME}${env:USERPROFILE}/.ssh,target=/home/vscode/.ssh,readonly"  ],
+  "remoteUser": "vscode"
+}
