@@ -31,13 +31,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Run Prettier
-  format:
-    uses: ./.github/workflows/prettier.yml
   # Build job
   build:
     runs-on: ubuntu-latest
-    needs: format
     steps:
       - name: Checkout ${{ github.repository }} 🛎️
         uses: actions/checkout@v4
