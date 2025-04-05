@@ -3,26 +3,41 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Me he pasado la vida desmontando y montando cosas. Empece con mecanos y legos, continue por todo tipo de electrodomesticos y ordenadores, para terminar graducandome con los coches, (existe algo mejor que desguazar un coche? larga vida a las bicicletas).\\
+Pero gracias a los cochess descubri que la electronica podia ser muy util para hacer cacharros y que para poder hacer aun cosas mas divertidas tendria que aprender a programar. Aqui tuve mi primer contacto con la programacion.\\
+Me costo dar el salto a la programacion web pero la posibilidad de conectar dispositivos, personas, animales, lavadoras, sofas, etc... era demasiado atractiva como para darle la espalda unicamento por no poder soldar (el olor a estanyo es insuperable).
 
-In the novel, _The Strange Case of Dr. Jeykll and Mr. Hyde_, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+## Anteriorment
 
-- [Hyde](http://hyde.getpoole.com)
-- [Lanyon](http://lanyon.getpoole.com)
+_Octubre, 2021 -- Agosto, 2024_\\
+**Ingeniero de producto, en Qatium, Valencia**, responsable de indentificar, implementar y mesurar mejores en el sistema de importacion de redes de agua. Creando un pipeline que convirtiera elementos geojson en objetos con los que poder crear nuevas funcionalidades. Desarrollado mediant TDD, en pairing.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+_Octubre, 2020 -- Septiembre, 2021_\\
+**SRE, Mercadona Tech, Valencia**, proporcionando herramientas para facilitar el despliegue contenedores en kubernetes, asi como manternerlos entornos de staging y produccion.
 
-## Setup
+_Abril, 2019 -- Septiembre, 2020_\\
+**Backend, Mercadona Tech, Valencia**, haciendo cositas de djangueros desencadenados, pythoneando.
 
-Some fun facts about the setup of this project include:
+_Abril, 2019 -- Septiembre, 2020_\\
+**Laia, Valencia**, desarrollando un teclado y raton periferico para gente con movilidad reducida. Creando sensores y un dispositivo con el que comunicarse con el ordenador.
 
-- Built for [Jekyll](http://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-- Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+_Junio, 2016 -- Julio, 2017_\\
+**Embedded Software Engineer, Misana Enginyeria, Valencia**, disenyo y produccion de sistemas embebidos, como centrales meteorologicas, reles diferenciales, lamparas inteligentes, etc...
 
-Thanks for reading!
+_Marzo, 2011 -- Julio, 2012_\\
+**Mechanic, Carroll & Kinsella Service Department, Dublin**, reparando coches.
+
+## Mi educacion
+
+_2021_\\
+**Boocamp DevOps, GeekHubs, Valencia**
+
+_Septiembre 2018 -- Abril, 2019_\\
+**Run, DevScola, Valencia**
+
+_2012 -- 2016_\\
+**Bachelor degree in Telecomunication Technologies Engineering, UPV, Valencia**
+
+_2009 -- 2012_\\
+**Automotive Senior Technician, IES Marchadella**
