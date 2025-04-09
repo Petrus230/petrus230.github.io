@@ -3,7 +3,12 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
+<div class="about">
+  {% assign about_page = site.pages | where: "path", "_pages/about.md" | first %}
+  {{ about_page.content }}
+</div>
+
+<!-- <div class="posts">
   {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
@@ -15,4 +20,4 @@ title: Home
     {{ post.content }}
   </div>
   {% endfor %}
-</div>
+</div> -->

@@ -12,14 +12,14 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == user_url %} active{% endif %}" href="{{ user_url }}">Home</a>
+      {% comment %} <a class="sidebar-nav-item{% if page.url == user_url %} active{% endif %}" href="{{ user_url }}">Home</a> {% endcomment %}
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% comment %} {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == 'page' %}
@@ -27,6 +27,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+       {% endcomment %}
       <div class="icon inline-block">
         {% include linkedin.liquid %}
       </div>
