@@ -281,6 +281,14 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+.icon{
+  fill: #f9f9f9;
+}
+
+.inline-block {
+  display: inline-block !important;
+}
+
 /*
  * Container
  *

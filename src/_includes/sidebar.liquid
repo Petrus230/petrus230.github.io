@@ -27,8 +27,15 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github_repo }}">GitHub project</a>
+      <div class="icon inline-block">
+        {% include linkedin.liquid %}
+      </div>
+      <div class="icon inline-block">
+        {% include email.liquid %}
+      </div>
+      <div class="icon inline-block">
+        {% include download.liquid %}
+      </div>
     </nav>
   </div>
 </div>
