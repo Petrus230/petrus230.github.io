@@ -3,41 +3,6 @@ layout: page
 title: Tecnologías
 ---
 
-<style>
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1rem;
-    margin: 2rem 0;
-  }
-  .tech-card {
-    background: #f8f9fa;
-    padding: 1rem;
-    border-radius: 8px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  }
-  .tech-header {
-    font-size: 1.1rem;
-    margin: 0 0 0.5rem 0;
-    color: #2c3e50;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  .tech-badges {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-  .project-card {
-    background: white;
-    padding: 1rem;
-    margin: 1rem 0;
-    border-radius: 8px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  }
-</style>
-
 <div class="tech-grid">
   <!-- Columna 1 -->
   <div class="tech-card">
