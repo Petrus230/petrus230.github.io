@@ -1,0 +1,41 @@
+.inline-block {
+    display: inline-block !important;
+}
+
+.sidebar-icons {
+    margin-top: 30px; /* Adds space between the pages and the icons */
+}  
+
+.tech-section {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  .tech-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 15px 0;
+    align-items: center;
+  }
+  .tech-header {
+    border-bottom: 2px solid #6c757d;
+    padding-bottom: 8px;
+    margin-bottom: 15px;
+    color: #2c3e50;
+  }
+  .mermaid-container {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 2rem 0;
+  }
+  .project-card {
+    background: white;
+    padding: 1.25rem;
+    margin: 1rem 0;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  }

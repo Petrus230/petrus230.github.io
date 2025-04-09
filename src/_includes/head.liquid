@@ -8,7 +8,7 @@
 
   <title>
     {% if page.title == 'Home' %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
@@ -16,6 +16,7 @@
   {% assign user_url = site.url | append: site.baseurl %}
   {% assign full_base_url = user_url | default: site.github.url %}
   <!-- CSS -->
+  <link rel="stylesheet" href="{{ '/public/css/style.css' | prepend: full_base_url }}">
   <link rel="stylesheet" href="{{ '/public/css/poole.css' | prepend: full_base_url }}">
   <link rel="stylesheet" href="{{ '/public/css/syntax.css' | prepend: full_base_url }}">
   <link rel="stylesheet" href="{{ '/public/css/hyde.css' | prepend: full_base_url }}">
