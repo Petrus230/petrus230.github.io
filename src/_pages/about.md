@@ -10,13 +10,13 @@ Desde entonces no he parado. Me dedico al desarrollo web de arriba a abajo, desd
 ## Anteriorment
 
 _Octubre, 2021 -- Agosto, 2024_\\
-**Ingeniero de producto, en Qatium, Valencia**, responsable de indentificar, implementar y mesurar mejoras en el sistema de importacion de redes de agua. Creando un pipeline que convirtiera elementos geojson en objetos con los que poder crear nuevas funcionalidades. Desarrollado mediant TDD, en pairing.
+**Ingeniero de producto, en Qatium, Valencia**, formé parte del equipo encargado de mejorar el sistema de importación de redes de agua. Colaboré en la creación de un pipeline que convertía datos GeoJSON en objetos estructurados, facilitando la creación de nuevas funcionalidades y optimizando el proceso. Aplicamos prácticas como TDD, pair programming y ciclos de desarrollo basados en pequeños incrementos constantes.
 
 _Octubre, 2020 -- Septiembre, 2021_\\
-**SRE, Mercadona Tech, Valencia**, proporcionando herramientas para facilitar el despliegue contenedores en kubernetes, asi como manternerlos entornos de staging y produccion.
+**SRE, Mercadona Tech, Valencia**, colaboré en la creación de herramientas que simplificaban el despliegue de contenedores en Kubernetes y en la gestión eficiente de los entornos de staging y producción, garantizando disponibilidad y fiabilidad.
 
 _Abril, 2019 -- Septiembre, 2020_\\
-**Backend, Mercadona Tech, Valencia**, haciendo cositas de djangueros desencadenados, pythoneando.
+**Backend, Mercadona Tech, Valencia**, trabajé en los equipos de Tienda y Backoffice en el área de backend, creando soluciones que mejoraban la experiencia de usuarios externos y optimizando las herramientas de uso interno.
 
 _Abril, 2019 -- Septiembre, 2020_\\
 **Laia, Valencia**, desarrollando un teclado y raton periferico para gente con movilidad reducida. Creando sensores y un dispositivo con el que comunicarse con el ordenador.
