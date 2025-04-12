@@ -3,9 +3,9 @@ layout: page
 title: About lista1
 ---
 
-Me he pasado la vida desmontando y montando cosas. Empece con mecanos y legos, continue por todo tipo de electrodomesticos y ordenadores, para terminar graducandome con los coches, (existe algo mejor que desguazar un coche? larga vida a las bicicletas).\\
-Pero gracias a los cochess descubri que la electronica podia ser muy util para hacer cacharros y que para poder hacer aun cosas mas divertidas tendria que aprender a programar. Aqui tuve mi primer contacto con la programacion.\\
-Me costo dar el salto a la programacion web pero la posibilidad de conectar dispositivos, personas, animales, lavadoras, sofas, etc... era demasiado atractiva como para darle la espalda unicamento por no poder soldar (el olor a estanyo es insuperable).
+Siempre me gustó desmontar cosas para entender cómo funcionan. Empecé con Legos y Mecanos, luego pasé a destripar electrodomésticos y ordenadores, y acabé metiéndome con coches y casas. En algún punto del camino me crucé con la electrónica —con sus arduinos, raspberries y demás— y fue inevitable: terminé programando.\\
+
+Desde entonces no he parado. Me dedico al desarrollo web de arriba a abajo, desde el backend hasta el frontend, sin olvidarme de montar la **infraestructura** que lo hace posible. Para mí, programar es resolver problemas de manera eficiente, y para eso es clave tener una visión global del sistema y del proceso. Porque al final, programar es como montar un Lego: si no entiendes la caja entera, siempre te sobra alguna pieza.
 
 ## 🕰️ Experiencia Profesional
 
