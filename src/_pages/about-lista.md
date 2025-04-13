@@ -10,59 +10,58 @@ Desde entonces no he parado. Me dedico al desarrollo web de arriba a abajo, desd
 
 ## Experiencia Profesional
 
-### Ingeniero de Producto
-**Qatium, Valencia** | Oct 2021 - Ago 2024  
-- Responsable de mejora el sistema de importación de redes de agua
-- Desarrollé un pipeline para convertir elementos GeoJSON en objetos funcionales
-- Implementé mejoras que aumentaron la eficiencia del proceso
-- Metodologías: TDD, programación en pareja
-- Tecnologías: Python, PostGIS, Docker
+_Octubre, 2021 -- Agosto, 2024_  
+**Ingeniero de producto, Qatium, Valencia**
+- Mejora y optimización del sistema de importación de redes de agua.
+- Creación de pipelines para transformar datos GeoJSON en objetos estructurados.
+- Desarrollo en equipo aplicando TDD, pair programming y ciclos iterativos de pequeños incrementos.
 
-### Site Reliability Engineer (SRE)
-**Mercadona Tech, Valencia** | Oct 2020 - Sep 2021  
-- Desarrollé herramientas para despliegue de contenedores en Kubernetes
-- Mantenimiento de entornos de staging y producción
-- Automatización de procesos de CI/CD
-- Tecnologías: Kubernetes, Terraform, Prometheus
+_Octubre, 2020 -- Septiembre, 2021_  
+**SRE, Mercadona Tech, Valencia**
+- Desarrollo de herramientas para facilitar despliegues de contenedores en Kubernetes.
+- Mantenimiento y gestión de entornos de staging y producción.
+- Enfoque en disponibilidad, fiabilidad y automatización.
 
-### Desarrollador Backend
-**Mercadona Tech, Valencia** | Abr 2019 - Sep 2020  
-- Desarrollo de APIs y servicios backend
-- Optimización de consultas y procesos ETL
-- Tecnologías: Python, Django, PostgreSQL
+_Abril, 2019 -- Septiembre, 2020_  
+**Backend Developer, Mercadona Tech, Valencia**
+- Desarrollo de funcionalidades para clientes externos e internos.
+- Participación en los equipos de Tienda y Backoffice.
+- Mejora continua de herramientas y experiencia de usuario.
 
-### Desarrollador de Dispositivos IoT
-**Laia, Valencia** | Abr 2019 - Sep 2020  
-- Diseñé un periférico para personas con movilidad reducida
-- Desarrollo de sensores y protocolos de comunicación
-- Tecnologías: C++, Arduino, Bluetooth LE
+_Septiembre, 2017 -- Septiembre, 2018_  
+**Laia, Valencia**
+- Diseño y desarrollo de un teclado y ratón adaptados para personas con movilidad reducida.
+- Creación de sensores personalizados y dispositivos de comunicación.
+- Enfoque en accesibilidad y usabilidad.
 
----
+_Junio, 2016 -- Julio, 2017_  
+**Embedded Software Engineer, Misana Enginyeria, Valencia**
+- Diseño y producción de sistemas embebidos.
+- Desarrollo de estaciones meteorológicas, relés diferenciales y lámparas inteligentes.
+- Adaptación de soluciones a distintos sectores industriales.
 
-## Educación
+_Marzo, 2011 -- Julio, 2012_  
+**Mechanic, Carroll & Kinsella Service Department, Dublin**
+- Mantenimiento preventivo y reparación de vehículos.
+- Diagnóstico de averías y resolución de fallos mecánicos y eléctricos.
+- Atención a mecánica básica y sistemas complejos.
 
-### Bootcamp DevOps
-**GeekHubs, Valencia** | 2021  
-- Formación intensiva en infraestructura cloud y automatización
+## Mi educacion
 
-### Curso Intensivo de Desarrollo
-**DevScola, Valencia** | Sep 2018 - Abr 2019  
-- Programación fullstack y metodologías ágiles
+_2021_  
+**Bootcamp DevOps, GeekHubs, Valencia**
+- Automatización de despliegues y gestión de infraestructura cloud.
+- Herramientas: Docker, Kubernetes, CI/CD.
+- Integración continua y prácticas Agile.
 
-### Grado en Ingeniería de Tecnologías de Telecomunicación
-**Universidad Politécnica de Valencia** | 2012 - 2016  
-- Especialización en sistemas electrónicos
+_Septiembre 2018 -- Abril, 2019_  
+**Run, DevScola, Valencia**
+- Introducción a los principios de Extreme Programming (XP).
+- Trabajo en equipo aplicando TDD, pair programming y principios SOLID.
+- Desarrollo bajo metodologías Agile.
 
-### Técnico Superior en Automoción
-**IES Marchadella** | 2009 - 2012  
-- Mantenimiento de vehículos y sistemas electrónicos
+_2012 -- 2016_  
+**Bachelor Degree in Telecommunication Technologies Engineering, UPV, Valencia**
 
----
-
-## Habilidades Técnicas
-
-- **Lenguajes**: Python, JavaScript, C++
-- **Backend**: Django, Node.js, APIs REST
-- **DevOps**: Docker, Kubernetes, Terraform
-- **IoT**: Arduino, Raspberry Pi, protocolos de comunicación
-- **Metodologías**: TDD, Pair Programming, Agile
+_2009 -- 2012_  
+**Automotive Senior Technician, IES Marchadella**
