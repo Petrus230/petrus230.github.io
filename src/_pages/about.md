@@ -18,22 +18,22 @@ _Octubre, 2020 -- Septiembre, 2021_\\
 _Abril, 2019 -- Septiembre, 2020_\\
 **Backend, Mercadona Tech, Valencia**, trabajé en los equipos de Tienda y Backoffice en el área de backend, creando soluciones que mejoraban la experiencia de usuarios externos y optimizando las herramientas de uso interno.
 
-_Abril, 2019 -- Septiembre, 2020_\\
-**Laia, Valencia**, desarrollando un teclado y raton periferico para gente con movilidad reducida. Creando sensores y un dispositivo con el que comunicarse con el ordenador.
+_Septiembre, 2017 -- Septiembre, 2018_\\
+**Laia, Valencia**, diseñé y desarrollé un teclado y ratón adaptados para personas con movilidad reducida, creando sensores personalizados y un dispositivo de comunicación que facilita su acceso y uso del ordenador.
 
 _Junio, 2016 -- Julio, 2017_\\
-**Embedded Software Engineer, Misana Enginyeria, Valencia**, disenyo y produccion de sistemas embebidos, como centrales meteorologicas, reles diferenciales, lamparas inteligentes, etc...
+**Embedded Software Engineer, Misana Enginyeria, Valencia**, diseño y producción de sistemas embebidos adaptados a distintos sectores, incluyendo estaciones meteorológicas, dispositivos de protección eléctrica (relés diferenciales) y soluciones de iluminación inteligente.
 
 _Marzo, 2011 -- Julio, 2012_\\
-**Mechanic, Carroll & Kinsella Service Department, Dublin**, reparando coches.
+**Mechanic, Carroll & Kinsella Service Department, Dublin**, mantenimiento y reparación de vehículos, abarcando tanto mecánica básica como diagnósticos y resolución de averías..
 
 ## Mi educacion
 
 _2021_\\
-**Boocamp DevOps, GeekHubs, Valencia**
+**Boocamp DevOps, GeekHubs, Valencia**, centrado en automatización de despliegues, integración continua y gestión de infraestructura en entornos cloud con herramientas como Docker, Kubernetes y CI/CD.
 
 _Septiembre 2018 -- Abril, 2019_\\
-**Run, DevScola, Valencia**
+**Run, DevScola, Valencia**, bootcamp donde me introduje en los principios de Extreme Programming y trabajé en proyectos en equipo aplicando TDD, pair programming, SOLID y metodologías Agile de forma práctica
 
 _2012 -- 2016_\\
 **Bachelor degree in Telecomunication Technologies Engineering, UPV, Valencia**
