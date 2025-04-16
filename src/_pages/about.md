@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 ---
 
 Siempre me gustó desmontar cosas para entender cómo funcionan. Empecé con Legos y Mecanos, luego pasé a destripar electrodomésticos y ordenadores, y acabé metiéndome con coches y casas. En algún punto del camino me crucé con la electrónica —con sus arduinos, raspberries y demás— y fue inevitable: terminé programando. \\
