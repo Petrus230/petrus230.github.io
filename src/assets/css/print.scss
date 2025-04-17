@@ -10,11 +10,23 @@
     margin-top: 1.5cm;
     margin-right: 1.5cm;
   }
-  .sidebar-nav {
+  .sidebar-nav,
+  .sidebar-icons {
     display: none !important;
   }
   .print-button {
     display: none !important;
+  }
+
+  .print-info {
+    display: block; /* Ensure the print-info section is visible */
+    margin-top: 20px; /* Add spacing from the title */
+    font-size: 14px; /* Adjust font size for print */
+  }
+
+  .print-info a {
+    color: black; /* Ensure links are readable in print */
+    text-decoration: underline;
   }
 
 //   .contact-data,
