@@ -3,7 +3,6 @@ layout: default
 ---
 <div class="page">
   {% comment %} <h1 class="page-title">{{ page.title }}</h1> {% endcomment %}
-
-  {% include print-button.liquid %}
+  <button class="print-button" onclick="window.print();">Print</button>
   {{ content }}
 </div>

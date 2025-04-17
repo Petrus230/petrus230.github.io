@@ -1,0 +1,143 @@
+---
+---
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css") print;
+
+@media print {
+  @page {
+    size: A4;
+    margin: 1.8cm;
+    margin-top: 1.5cm;
+    margin-right: 1.5cm;
+  }
+  .sidebar-nav {
+    display: none !important;
+  }
+  .print-button {
+    display: none !important;
+  }
+
+//   .contact-data,
+//   .links {
+//     display: block !important;
+//   }
+
+//   .right-column {
+//     margin-left: 0.5cm;
+//     p {
+//       font-size: 10pt;
+//     }
+//   }
+
+//   .fa-solid,
+//   .print-only {
+//     display: inline;
+//   }
+
+//   .section {
+//     margin-left: -0.65cm;
+//   }
+
+//   .graphs {
+//     margin: 0;
+//   }
+
+//   .avatar {
+//     width: 60px;
+//     height: 60px;
+//     margin: 0;
+//     margin-right: 1rem;
+//   }
+
+//   #resume-header {
+//     flex-direction: row;
+//     justify-content: flex-start;
+//   }
+
+//   body {
+//     font-size: 10pt;
+//     line-height: 1.3;
+//     background: #fff !important;
+//     color: #000 !important;
+//   }
+
+//   .text-color {
+//     color: #000 !important;
+//     fill: #000 !important;
+//   }
+
+//   // Hide non-essential elements
+//   nav,
+//   footer,
+//   .theme-toggle,
+//   .print-button,
+//   .header-sticky,
+//   .language-menu,
+//   .h0,
+//   #divider {
+//     display: none !important;
+//   }
+
+//   // Adjust article layout
+//   article {
+//     width: 100% !important;
+//     margin: 0 !important;
+//     padding: 0 !important;
+//   }
+
+//   // Headers styling
+//   h1 {
+//     font-size: 20pt !important;
+//     padding: 0 !important;
+//     margin: 0 !important;
+//   }
+
+//   h2 {
+//     font-size: 14pt;
+//   }
+
+//   // Links handling
+//   a {
+//     color: var(--text-accent) !important;
+//     text-decoration: none !important;
+//   }
+
+//   // List styling
+//   ul,
+//   ol {
+//     margin-left: 0;
+//     padding-left: 0.7cm;
+//   }
+
+//   // Avoid page breaks inside important elements
+//   li,
+//   tr {
+//     page-break-inside: avoid;
+//     break-inside: avoid;
+//   }
+
+//   // Remove background colors and adjust text colors
+//   .about {
+//     display: flex !important;
+//     margin-top: 1rem;
+//     .prose {
+//       padding: 0.5cm 0 !important;
+//       margin-left: 0.75cm;
+//       width: 11.6cm !important;
+//       margin-bottom: 0 !important;
+//     }
+//     .prose p,
+//     ul,
+//     ol {
+//       font-size: 11pt;
+//     }
+//     background: none !important;
+//     color: #000 !important;
+//   }
+
+//   // Adjust graphs if present
+//   .graphs {
+//     page-break-inside: avoid;
+//     break-inside: avoid;
+//   }
+}
