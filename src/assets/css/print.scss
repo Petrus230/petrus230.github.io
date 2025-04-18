@@ -7,7 +7,7 @@
   @page {
     size: A4;
     margin: 0cm;
-    margin-top: 0m;
+    margin-top: 0cm;
     margin-right: 0.5cm;
   }
 
@@ -16,10 +16,8 @@
     flex-direction: row;
   }
 
-  .main-content {
-    // width: 70%; /* Adjust the width of the main content */
-    // padding-left: 10px; /* Add spacing between the main content and the sidebar */
-    font-size: 1px; /* Smaller font size for the main content */
+  .page {
+    font-size: 18px; /* Smaller font size for the main content */
   }
 
   .sidebar {
