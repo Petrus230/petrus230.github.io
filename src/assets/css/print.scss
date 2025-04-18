@@ -8,7 +8,7 @@
     size: A4;
     margin: 0cm;
     margin-top: 0m;
-    margin-right: 1.5cm;
+    margin-right: 0.5cm;
   }
 
   body {
@@ -16,12 +16,18 @@
     flex-direction: row;
   }
 
+  .main-content {
+    // width: 70%; /* Adjust the width of the main content */
+    // padding-left: 10px; /* Add spacing between the main content and the sidebar */
+    font-size: 1px; /* Smaller font size for the main content */
+  }
+
   .sidebar {
     width: 30%; /* Adjust the width of the sidebar for the left column */
     padding-right: 5px; /* Add spacing between the sidebar and the main content */
     border-right: 1px solid #ccc; /* Optional: Add a border to separate the sidebar */
     background-color: #202020; /* Set the background color of the sidebar to blue */
-    color: white; /* Ensure text is readable on the blue background */
+    color: #ccc; /* Ensure text is readable on the blue background */
     -webkit-print-color-adjust: exact; /* Force the browser to print the background color */
     print-color-adjust: exact; /* Standard property for other browsers */
   }
@@ -30,18 +36,34 @@
     font-size: 30px; /* Reduce the font size of the sidebar h1 */
     margin-bottom: 10px; /* Add spacing below the h1 */
   }
+
+  .sidebar h4 {
+    color: #ccc; /* Ensure h3 labels are printed in white */
+  }
+  
   .sidebar p {
     font-size: 20px; /* Reduce the font size of the sidebar h1 */
     margin-bottom: 10px; /* Add spacing below the h1 */
   }
 
-  .print-info {
-    display: block; /* Ensure the print-info section is visible */
+  .contact-info {
+    display: block; /* Ensure the contact-info section is visible */
     margin-top: 20px; /* Add spacing from the title */
     font-size: 14px; /* Adjust font size for print */
   }
 
+  .contact-info a {
+    font-size: 16px; /* Remove default margin */
+  }
+
   .print-button {
     display: none !important; /* Hide print buttons */
+  }
+
+  .sidebar-nav {
+    display: none !important;
+  }
+  .sidebar-icons {
+    display: none !important;
   }
 }

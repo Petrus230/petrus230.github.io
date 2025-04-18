@@ -24,17 +24,57 @@
 
     <div class="sidebar-icons">
       <a href="{{ user_url }}{{ site.baseurl }}/atom.xml" class="icon icon-rss" title="RSS Feed"></a>
-      <div class="icon inline-block print-info">
+      <div class="icon inline-block contact-info">
         {% include linkedin.liquid %}
       </div>
-      <div class="icon inline-block print-info">
+      <div class="icon inline-block contact-info">
         {% include email.liquid %}
       </div>
     </div>
     <!-- Print-specific information -->
-    <div class="print-info">
-      <p>Email: <a href="mailto:{{ site.user_email }}">{{ site.user_email }}</a></p>
-      <p>LinkedIn: <a href="https://linkedin.com/in/{{ site.linkedin_username }}">{{ site.linkedin_username }}</a></p>
+    <div class="contact-info">
+      <h4>Contact</h4>
+      <a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i>linkedin.com/in/{{ site.linkedin_username }}</i></a>
+      <a href="mailto:{{ site.user_email }}">{{ site.user_email }}</a>
+
+      <h4>Tecnologies</h4>
+      <p>
+        Python - 
+        Ruby - 
+        Typescript - 
+        C++
+      </p>
+
+      <p>
+        Django - 
+        NodeJs -
+        PostgreSQL - 
+        MongoDB -
+        Kibana - 
+        Elasticsearch -
+        Redis
+      </p>
+
+      <p>
+        Docker - 
+        Kubernetes - 
+        Terraform - 
+        Ansible - 
+        AWS 
+      </p>
+
+      <p>
+        Linux - 
+        Bash - 
+        Git
+      </p>
+
+      <h4>Languages</h4>
+      <p>
+        Catalan -
+        English - 
+        Spanish 
+
     </div>
   </div>
 </div>
