@@ -46,3 +46,26 @@
 .tecnologies-info {
   display: none;
 }
+
+// Link styles for navigation
+.link-primary {
+  font-weight: bold;
+  text-decoration: none !important;
+  &:not(.text-accent) {
+    color: var(--text);
+  }
+  &:hover {
+    color: var(--link-hover);
+    text-decoration: none !important;
+  }
+}
+
+.print-button {
+  cursor: pointer;
+  user-select: none;
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  height: 24px;
+  margin-bottom: 0.5rem;
+}
