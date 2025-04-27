@@ -51,12 +51,23 @@
     font-size: 18px;
   }
 
+  .tecnologies-info h4{
+    text-decoration: underline
+  }
+  
+
+
   .about-content em{
     padding-top: 10rem;
   }
 
   p {
     page-break-inside: avoid;
+  }
+  
+  .aficiones{
+    display: flex;
+    flex-direction: column;
   }
 
   .about-content hr,
