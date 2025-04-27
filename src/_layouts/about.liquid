@@ -1,13 +1,16 @@
 ---
 layout: default
 ---
-<div class="page">
+<div class="about">
   {% comment %} <h1 class="page-title">{{ page.title }}</h1> {% endcomment %}
   {% include print-button.liquid %}
   <div class="contact-info">
     <h4>Contact</h4>
     <a href="https://linkedin.com/in/{{ site.linkedin_username }}"><i>linkedin.com/in/{{ site.linkedin_username }}</i></a>
     <a href="mailto:{{ site.user_email }}">{{ site.user_email }}</a>
+    <hr style="height:5px;border-width:5px;color:black;background-color:black"> 
   </div>
+  <div class="about-content">
   {{ content }}
+  </div>
 </div>

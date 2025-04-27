@@ -1,19 +1,19 @@
 ---
 layout: about
-title: Sobre mí 1 
+title: Sobre mí
 ---
 
 Siempre me gustó desmontar cosas para entender cómo funcionan. Empecé con Legos y Mecanos, luego pasé a destripar electrodomésticos y ordenadores, y acabé metiéndome con coches y casas. En algún punto del camino me crucé con la electrónica —con sus arduinos, raspberries y demás— y fue inevitable: terminé programando. \\
 Desde entonces no he parado. Me dedico al desarrollo web de arriba a abajo, desde el backend hasta el frontend, sin olvidarme de montar la infraestructura que lo hace posible. Para mí, programar es resolver problemas de manera eficiente, y para eso es clave tener una visión global del sistema y del proceso. Porque al final, programar es como montar un Lego: si no entiendes la caja entera, siempre te sobra alguna pieza.
 
-
+---
 
 ## Experiencia Profesional
 
 _Octubre, 2021 -- Agosto, 2024_\\
 **Ingeniero de producto, en Qatium, Valencia**, formé parte del equipo encargado de mejorar el sistema de importación de redes de agua. Colaboré en la creación de un pipeline que convertía datos GeoJSON en objetos estructurados, facilitando la creación de nuevas funcionalidades y optimizando el proceso. Aplicamos prácticas como TDD, pair programming y ciclos de desarrollo basados en pequeños incrementos constantes.
 
-*Tecnologías: React, Mapbox, Kibana, ElasticSearch, AWS, Docker*
+*Tecnologías: React, Typescript, GeoJson, EPANET, Mapbox, Kibana, ElasticSearch, AWS, Docker*
 
 ---
 

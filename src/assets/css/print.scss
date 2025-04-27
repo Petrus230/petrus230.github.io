@@ -11,7 +11,7 @@
     display: flex;
   }
 
-  .page {
+  .about {
     font-size: 14px; /* Smaller font size for the main content */
   }
 
@@ -19,6 +19,7 @@
     font-size: 30px; /* Reduce the font size of the sidebar h1 */
     margin-bottom: 10px; /* Add spacing below the h1 */
   }
+  
   .content {
     padding-top: 1rem;
   }
@@ -36,12 +37,25 @@
     display: flex; /* Ensure the contact-info section is visible */
     flex-direction: column;
     margin-bottom: 1rem;
+    font-size: 16px;
   }
 
-  .contact-info a {
-    font-size: 16px; /* Remove default margin */
+
+  .tecnologies-info {
+    display: flex; /* Ensure the contact-info section is visible */
+    flex-direction: column;
+    margin-bottom: 1rem;
   }
 
+  .tecnologies-info p{
+    font-size: 18px;
+  }
+
+  .about-content em{
+    padding-top: 10rem;
+  }
+
+  .about-content hr,
   .print-button,
   .sidebar-nav, 
   .sidebar-icons {
