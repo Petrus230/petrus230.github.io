@@ -55,6 +55,10 @@
     padding-top: 10rem;
   }
 
+  p {
+    page-break-inside: avoid;
+  }
+
   .about-content hr,
   .print-button,
   .sidebar-nav, 
