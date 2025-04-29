@@ -14,7 +14,7 @@
   .about {
     font-size: 14px; /* Smaller font size for the main content */
   }
-  
+
   .content {
     padding-top: 1rem;
   }
@@ -31,7 +31,7 @@
       }
     }
   }
-  
+
   .sidebar p {
     font-size: 20px; /* Reduce the font size of the sidebar h1 */
     margin-bottom: 10px; /* Add spacing below the h1 */
@@ -43,39 +43,37 @@
     font-size: 16px;
   }
 
-
   .tecnologies-info {
     display: flex; /* Ensure the contact-info section is visible */
     flex-direction: column;
     margin-bottom: 1rem;
   }
 
-  .tecnologies-info p{
+  .tecnologies-info p {
     font-size: 18px;
   }
 
-  .tecnologies-info h4{
-    text-decoration: underline
+  .tecnologies-info h4 {
+    text-decoration: underline;
   }
-  
 
-
-  .about-content em{
+  .about-content em {
     padding-top: 10rem;
   }
 
   p {
     page-break-inside: avoid;
   }
-  
-  .aficiones{
+
+  .aficiones {
     display: flex;
     flex-direction: column;
   }
 
+  .border-top-thin,
   .about-content hr,
   .print-button,
-  .sidebar-nav, 
+  .sidebar-nav,
   .sidebar-icons {
     display: none;
   }
