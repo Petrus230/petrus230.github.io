@@ -30,6 +30,11 @@
       <div class="icon inline-block contact-info">
         {% include email.liquid %}
       </div>
+      <div class="language-menu">
+        {% for tongue in site.languages %}
+        <a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ tongue }}</a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
+          {% endfor %}
+      </div>
     </div>
     <!-- Print-specific information -->
     <div class="tecnologies-info">

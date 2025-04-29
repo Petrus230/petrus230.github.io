@@ -35,6 +35,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+redirect_from:
+  json: false
+
 livereload: true
 port: 8080
 
