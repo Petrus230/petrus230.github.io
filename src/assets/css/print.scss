@@ -14,11 +14,6 @@
   .about {
     font-size: 14px; /* Smaller font size for the main content */
   }
-
-  .sidebar h1 {
-    font-size: 30px; /* Reduce the font size of the sidebar h1 */
-    margin-bottom: 10px; /* Add spacing below the h1 */
-  }
   
   .content {
     padding-top: 1rem;
@@ -26,6 +21,15 @@
 
   .sidebar {
     color: black; /* Ensure h3 labels are printed in white */
+    .sidebar-about {
+      h1 {
+        font-size: 30px; /* Reduce the font size of the sidebar h1 */
+        margin-bottom: 10px; /* Add spacing below the h1 */
+        a {
+          color: black;
+        }
+      }
+    }
   }
   
   .sidebar p {
@@ -36,7 +40,6 @@
   .contact-info {
     display: flex; /* Ensure the contact-info section is visible */
     flex-direction: column;
-    margin-bottom: 1rem;
     font-size: 16px;
   }
 
