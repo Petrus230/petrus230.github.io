@@ -1,6 +1,21 @@
-# frozen_string_literal: true
 
 source "https://rubygems.org"
 gemspec
+gem "wdm", ">= 0.1.0" if Gem.win_platform?
+gem "bundler", "~> 2.6.5"
+gem "faraday-retry", "~> 2.2"
+gem "ostruct", "~> 0.6.1"
+gem "fiddle", "~> 1.1.6"
+gem "bigdecimal"
+gem "logger"
+gem "jekyll", "~> 4.4.1"
+gem "uglifier", "~> 4.2.1"
 
-gem 'jekyll-date-localization', '~> 0.0.8'
+group :jekyll_plugins do
+  gem "jekyll-polyglot", "~> 1.9"
+  gem "jekyll-redirect-from", "~> 0.16.0"
+  gem "jekyll-date-localization", "~> 0.0.8"
+  gem "jekyll-minifier", "~> 0.1.10"
+  gem "jekyll-sitemap", "~> 1.4.0"
+  gem "jekyll-feed", "~> 0.17.0"
+end

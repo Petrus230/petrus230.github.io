@@ -28,7 +28,19 @@ exclude:
   - scripts
 
 plugins:
+  - jekyll-polyglot
+  - jekyll-redirect-from
   - jekyll-date-localization
+  - jekyll-minifier
+  - jekyll-sitemap
+  - jekyll-feed
 
 livereload: true
 port: 8080
+
+languages: ["en", "ca", "es"]
+langsep: ·
+default_lang: en
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "assets"]
+parallel_localization: false
+lang_from_path: true
