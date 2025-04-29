@@ -32,67 +32,43 @@
       </div>
       <div class="language-menu">
         {% for tongue in site.languages %}
-        <a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} {% static_href %}href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"{% endstatic_href %} >{{ tongue }}</a>{%- if forloop.last == false -%}{{" "}}{{ site.langsep }}{%- endif -%}
-          {% endfor %}
+          <a
+            {% if tongue == site.active_lang %}
+              style="font-weight: bold;"
+            {% endif %}
+            {% static_href -%}
+            href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}{% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}"
+            {% endstatic_href %}
+          >
+            {{- tongue -}}
+          </a>
+          {%- if forloop.last == false -%}
+            {{ ' ' -}}
+            {{- site.langsep }}
+          {%- endif -%}
+        {% endfor %}
       </div>
     </div>
     <!-- Print-specific information -->
     <div class="tecnologies-info">
-      
       <h4>Tecnologias</h4>
-      <p>
-        Python - 
-        Ruby - 
-        Typescript - 
-        C++
-      </p>
+      <p>Python - Ruby - Typescript - C++</p>
 
-      <p>
-        Django - 
-        NodeJs -
-        PostgreSQL - 
-        MongoDB -
-        Kibana - 
-        Elasticsearch -
-        Redis
-      </p>
+      <p>Django - NodeJs - PostgreSQL - Kibana - Elasticsearch - Redis</p>
 
-      <p>
-        React - 
-        Vue - 
-        CSS - 
-        HTML
-      </p>
-      
-      <p>
-        Docker - 
-        Kubernetes - 
-        Ansible - 
-        AWS 
-      </p>
+      <p>React - Vue - CSS - HTML</p>
 
-      <p>
-        GeoJson - 
-        EPANET - 
-        TETRA
-      </p>
+      <p>Docker - Kubernetes - Ansible - AWS</p>
 
-      <p>
-        Linux - 
-        Bash - 
-        Git
-      </p>
+      <p>GeoJson - EPANET - TETRA</p>
+
+      <p>Linux - Bash - Git</p>
 
       <h4>Idiomas</h4>
-        Valencia 
-        Castellano 
-        English
+      Valencia Castellano English
 
       <h4>Aficiones</h4>
-        🪚 Madera
-        🍲 Comer
-        🔪 Cocinar 
-        🌿 Plantas
+      🪚 Madera 🍲 Comer 🔪 Cocinar 🌿 Plantas
     </div>
   </div>
 </div>

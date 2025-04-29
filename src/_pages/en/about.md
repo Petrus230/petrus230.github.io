@@ -16,35 +16,35 @@ Since then, I haven't stopped. I work in full-stack web development, from backen
 _October, 2021 -- August, 2024_\\
 **Product Engineer at Qatium, Valencia**, I was part of the team responsible for improving the water network import system. I helped develop a pipeline that converted GeoJSON data into structured objects, enabling new features and streamlining the process. We followed practices like TDD, pair programming, and development cycles based on small, steady iterations.
 
-*Technologies: React, Typescript, GeoJson, EPANET, Mapbox, Kibana, ElasticSearch, AWS, Docker*
+_React, Typescript, GeoJson, EPANET, Mapbox, Kibana, ElasticSearch, AWS, Docker_
 
 ---
 
 _October, 2020 -- September, 2021_\\
 **SRE, Mercadona Tech, Valencia**, I helped build tools to simplify container deployment in Kubernetes and efficiently manage staging and production environments, ensuring availability and reliability.
 
-*Technologies: Kubernetes, Docker, AWS, Ansible, Kibana, ElasticSearch*
+_Kubernetes, Docker, AWS, Ansible, Kibana, ElasticSearch_
 
 ---
 
 _April, 2019 -- September, 2020_\\
 **Backend Developer, Mercadona Tech, Valencia**, I worked in the Store and Backoffice teams on backend solutions that enhanced the external user experience and optimized internal tools.
 
-*Technologies: Django, Python, Kibana, ElasticSearch*
+_Django, Python, Kibana, ElasticSearch_
 
 ---
 
 _September, 2017 -- September, 2018_\\
 **Laia, Valencia**, I designed and developed an adapted keyboard and mouse for people with reduced mobility, creating custom sensors and a communication device that improved their access to and use of computers.
 
-*Technologies: C, Altium Designer, SPI, I2C*
+_C, Altium Designer, SPI, I2C_
 
 ---
 
 _June, 2016 -- July, 2017_\\
 **Embedded Software Engineer, Misana Enginyeria, Valencia**, design and production of embedded systems for various sectors, including weather stations, electrical protection devices (residual-current relays), and smart lighting solutions.
 
-*Technologies: C, Altium Designer, SPI, I2C*
+_C, Altium Designer, SPI, I2C_
 
 ---
 
