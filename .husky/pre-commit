@@ -1,0 +1,35 @@
+#!/bin/sh
+
+echo "Running Prettier...\n"
+# Get staged files
+FILES=$(git diff --cached --name-only --diff-filter=ACMR | grep -E '\.(js|jsx|ts|tsx|css|scss|json|md|yaml|yml|liquid|html)$' || true)
+
+if [ -z "$FILES" ]; then
+    echo "No files to format."
+    exit 0
+fi
+
+# Format each file
+echo "📝 Files to format:"
+echo "$FILES" | while read file; do
+    eza --color=always --git --icons "$file"
+done
+
+echo "\n🔍 Processing files..."
+echo "$FILES" | while read file; do
+    if [ -f "$file" ]; then
+        echo "Processing $file"
+        prettier --write --ignore-unknown --log-level=warn "$file" || {
+            echo "❌ Prettier failed on $file"
+            exit 1
+        }
+    fi
+done
+
+# If the while loop failed, exit with error
+if [ $? -ne 0 ]; then
+    exit 1
+fi
+
+git update-index --again
+echo "\n✅ Prettier complete!"

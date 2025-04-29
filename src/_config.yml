@@ -9,7 +9,7 @@ permalink: pretty
 # Setup
 title: Lluis Guirado
 tagline: "A Jekyll theme"
-description: 'Product engineer & maker'
+description: "Product engineer & maker"
 github_repo: https://github.com/Petrus230/petrus230.github.io
 linkedin_username: lluisguirado
 user_name: lluis guirado
@@ -37,6 +37,10 @@ plugins:
 
 redirect_from:
   json: false
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
 
 livereload: true
 port: 8080
