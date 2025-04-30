@@ -49,7 +49,7 @@ _Tecnologías: C, Altium Designer, SPI, I2C_
 ---
 
 _Marzo, 2011 -- Julio, 2012_\\
-**Mechanic, Carroll & Kinsella Service Department, Dublin**, mantenimiento y reparación de vehículos, abarcando tanto mecánica básica como diagnósticos y resolución de averías..
+**Mecánico, Carroll & Kinsella Service Department, Dublin**, mantenimiento y reparación de vehículos, abarcando tanto mecánica básica como diagnósticos y resolución de averías..
 
 ## Mi educacion
 
@@ -60,7 +60,7 @@ _Septiembre 2018 -- Abril, 2019_\\
 **Run, DevScola, Valencia**, bootcamp donde me introduje en los principios de Extreme Programming y trabajé en proyectos en equipo aplicando TDD, pair programming, SOLID y metodologías Agile de forma práctica
 
 _2012 -- 2016_\\
-**Bachelor degree in Telecomunication Technologies Engineering, UPV, Valencia**
+**Grado en Ingeniería de Tecnologías y Servicios de Telecomunicaciones, UPV, Valencia**
 
 _2009 -- 2012_\\
-**Automotive Senior Technician, IES Marchadella**
+**Grado superior en Automocion, IES Marchadella**
