@@ -57,6 +57,11 @@
     text-decoration: underline;
   }
 
+  .hobbies-info {
+    display: flex;
+    flex-direction: column;
+  }
+
   .about-content em {
     padding-top: 10rem;
   }
