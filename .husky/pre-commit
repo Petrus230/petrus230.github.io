@@ -12,7 +12,7 @@ fi
 # Format each file
 echo "📝 Files to format:"
 echo "$FILES" | while read file; do
-    eza --color=always --git --icons "$file"
+    ls -l --color=auto "$file"
 done
 
 echo "\n🔍 Processing files..."

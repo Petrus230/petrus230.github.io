@@ -16,35 +16,35 @@ Des de llavors no he parat. Em dedique al desenvolupament web de dalt a baix, de
 _Octubre de 2021 -- Agost de 2024_\\
 **Enginyer de producte a Qatium, València**, vaig formar part de l’equip encarregat de millorar el sistema d’importació de xarxes d’aigua. Vaig col·laborar en la creació d’un pipeline que convertia dades GeoJSON en objectes estructurats, facilitant la creació de noves funcionalitats i optimitzant el procés. Aplicàvem pràctiques com TDD, pair programming i cicles de desenvolupament basats en xicotets increments constants.
 
-*Tecnologies: React, Typescript, GeoJson, EPANET, Mapbox, Kibana, ElasticSearch, AWS, Docker*
+_Tecnologies: \_NodeJs, React, Typescript, GeoJson, EPANET, Mapbox, Kibana, ElasticSearch, AWS, Docker_
 
 ---
 
 _Octubre de 2020 -- Setembre de 2021_\\
 **SRE a Mercadona Tech, València**, vaig col·laborar en la creació d’eines que simplificaven el desplegament de contenidors en Kubernetes i en la gestió eficient dels entorns de staging i producció, garantint disponibilitat i fiabilitat.
 
-*Tecnologies: Kubernetes, Docker, AWS, Ansible, Kibana, ElasticSearch*
+_Tecnologies: Kubernetes, Docker, AWS, Ansible, Kibana, ElasticSearch_
 
 ---
 
 _Abril de 2019 -- Setembre de 2020_\\
 **Backend a Mercadona Tech, València**, vaig treballar en els equips de Botiga i Backoffice en l’àrea de backend, creant solucions que milloraven l’experiència dels usuaris externs i optimitzant les eines d’ús intern.
 
-*Tecnologies: Django, Python, Kibana, ElasticSearch*
+_Tecnologies: Django, Python, Java, Spring, Kibana, ElasticSearch_
 
 ---
 
 _Setembre de 2017 -- Setembre de 2018_\\
 **Laia, València**, vaig dissenyar i desenvolupar un teclat i ratolí adaptats per a persones amb mobilitat reduïda, creant sensors personalitzats i un dispositiu de comunicació que facilita el seu accés i ús de l’ordinador.
 
-*Tecnologies: C, Altium Designer, SPI, I2C*
+_Tecnologies: C, Java, Altium Designer, SPI, I2C_
 
 ---
 
 _Juny de 2016 -- Juliol de 2017_\\
 **Enginyer de programari embegut a Misana Enginyeria, València**, disseny i producció de sistemes embeguts adaptats a diferents sectors, incloent-hi estacions meteorològiques, dispositius de protecció elèctrica (relés diferencials) i solucions d’il·luminació intel·ligent.
 
-*Tecnologies: C, Altium Designer, SPI, I2C*
+_Tecnologies: C, Java, Altium Designer, SPI, I2C_
 
 ---
 
