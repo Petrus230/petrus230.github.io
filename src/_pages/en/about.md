@@ -30,7 +30,7 @@ _Kubernetes, Docker, AWS, Ansible, Kibana, ElasticSearch_
 _April, 2019 -- September, 2020_\\
 **Backend Developer, Mercadona Tech, Valencia**, I worked in the Store and Backoffice teams on backend solutions that enhanced the external user experience and optimized internal tools.
 
-_Django, Python, Java, Spring, Kibana, ElasticSearch_
+_Django, Python, Java, Spring,PostgreSQL Kibana, ElasticSearch_,
 
 ---
 

@@ -30,7 +30,7 @@ _Tecnologías: Kubernetes, Docker, AWS, Ansible, Kibana, ElasticSearch_
 _Abril, 2019 -- Septiembre, 2020_\\
 **Backend, Mercadona Tech, Valencia**, trabajé en los equipos de Tienda y Backoffice en el área de backend, creando soluciones que mejoraban la experiencia de usuarios externos y optimizando las herramientas de uso interno.
 
-_Tecnologías: Django, Python, Java, Spring, Kibana, ElasticSearch_
+_Tecnologías: Django, Python, Java, Spring, PostgreSQL Kibana, ElasticSearch_
 
 ---
 
